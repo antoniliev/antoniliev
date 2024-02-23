@@ -1,10 +1,9 @@
 ### hi there 👋
 
+<!--
 <img align="center" src="https://github-readme-stats-mu-six-72.vercel.app/api?username=antoniliev&count_private=true&include_all_commits=true&show=reviews&hide=stars,issues&show_icons=true&custom_title=github%20stats&hide_rank=true" alt="github stats" />
 <img align="center" src="https://github-readme-stats-mu-six-72.vercel.app/api/top-langs/?username=antoniliev&layout=compact&custom_title=languages%20used" alt="languages used" />
 
-
-<!--
 **antoniliev/antoniliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
